@@ -1,0 +1,2 @@
+# hearth-api
+Hearthstone API
